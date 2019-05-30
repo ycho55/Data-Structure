@@ -1,2 +1,2 @@
 # Data-Structure
-CS 367 
+Data Structure class in Java
